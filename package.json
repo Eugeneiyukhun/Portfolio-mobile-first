@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-mobile-first",
+  "version": "1.0.0",
+  "description": "My mobile first setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eugeneiyukhun/Portfolio-mobile-first.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eugeneiyukhun/Portfolio-mobile-first/issues"
+  },
+  "homepage": "https://github.com/Eugeneiyukhun/Portfolio-mobile-first#readme"
+}
